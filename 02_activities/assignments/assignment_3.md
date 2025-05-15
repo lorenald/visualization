@@ -8,22 +8,45 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    V1: Excel
+
+    V2: Python
 
     > Who is your intended audience? 
-    
+    V1: community interested in FSL offerings
+
+    V2: government analysts interested in identifying attrition rates of FSL education in the schools with highest overall enrollment
+
     > What information or message are you trying to convey with your visualization? 
-    
+    V1: FSL enrollment has a lower proportion of enrollment in secondary vs elementary at the provincial level
+
+    V2: lower proportion of enrollment in secondary vs elementary is observed similary in schools with highest overall FSL enrollment
+
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
-    
+    both: data trends, distribution, similarity, marks, channels
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+    V1: I kept the original excel file linked to the graph made. however, this will be harder to replicate in a large scale. this makes the visualization not accessible.
+
+    V2: I wrote a jupyter notebook with comments on what each code chunk was doing. data is publicly available and I provided a link but couldn't figure out how to add the reference on the figure itself
+
     > How did you ensure that your data visualization is accessible?  
-    
+    Both: implementing contrasting colours color-blind friendly, large enough font size, information is concise, added labels, titles to axis
+
+    V1: added numbers to proportions 
+
+    V2: bars are big enough to distinguish one from the other
+
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+    Both: those interested in FSL education, it can be parents, community members, investors, government, researchers
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+    V1: I included provincial totals as an introduction to the topic, providing an overview of the provincial landscape
+
+    V2: I included only the top 15 schools with the highest overall enrollment to display that even in top schools the same pattern is observed. this also helped with making the figure not too large.
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+    both: school boards reporting on their enrollment numbers, ministry of education employees connecting with data management team to share information, data analysts cleaning and preparing data for publication, managers overseeing data collection and dataset creation, developers of matplotlib library, developers who created and mantained publicy available website.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
