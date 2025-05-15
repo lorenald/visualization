@@ -11,23 +11,21 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+      Good visualization:https://datavizproject.com/wp-content/uploads/examples/Sk%C3%A6rmbillede-2017-09-04-kl.-16.33.07.png
 
+      This visualization illustrates the speed comparison of diverse subjects. I think this is a good visualization because it illustrates really well which one is the fastest (apollo 10), how it compares with the most common aircraft (commercial flight) and the fastest animal (falcon dive), and the stark difference with everyday use (motorway limit). I also think the chose colors are attractive.
 
+      Bad visualization: https://datavizproject.com/wp-content/uploads/examples/Sk%C3%A6rmbillede-2017-05-30-kl.-09.20.36.png
 
-
-
-
+      This visualization don't even states what it is displaying and for that I would classify it as bad. It doesn't have a title, or axis labels so we don't know what it refers to. The font size is good, the colours used are attractive and show good contrast but cannot draw conclusions beyond that. Moreover, tha fact that the graph is titled on an angle makes it hard to interpret.
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+      Good visualization: The title of the visualization could be improved to be more clear and comprehensive. The font size could be larger. It should include references.
 
-
-
-
-
-
+      Bad visualization: I would start by adding axis labels, rotating the image to be horizontal, removing the front and back shadows of the triangle bars. Adding a legend with the meaning of the different colours, and adding a clear and concise title.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
